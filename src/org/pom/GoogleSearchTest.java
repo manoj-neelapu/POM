@@ -7,7 +7,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class GoogleSearchTest {
-
+//sample comment
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
